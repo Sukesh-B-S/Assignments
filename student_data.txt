@@ -1,0 +1,5 @@
+Manja , AI , 56
+Rajappa,ML,43
+Anupama,DS,86
+Jhon cena,ML,94
+Gouramma,AI,90
